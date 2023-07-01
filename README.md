@@ -1,9 +1,9 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+<!-- # Personal Portfolio ⚡️ 
+> A clean, beautiful, responsive portfolio template for Software Developers! -->
 
-> https://varadbhogayata.github.io
+> https://yashi002.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
+<!-- ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
@@ -69,4 +69,4 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 - 🔃 Create a new pull request.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details. -->
